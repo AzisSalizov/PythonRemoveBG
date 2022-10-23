@@ -1,0 +1,3 @@
+#!/Users/s312/Desktop/project/python/removeBG/venv/bin/python3
+from numba.pycc import main
+main()
